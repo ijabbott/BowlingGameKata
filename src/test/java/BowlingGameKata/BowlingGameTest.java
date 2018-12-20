@@ -16,4 +16,14 @@ public class BowlingGameTest {
         }
         assertEquals(0, game.getScore());
     }
+
+    @Test
+    public void BowlingGameAllOnes() {
+        BowlingGame game = new BowlingGame();
+
+        for(int i = 0; i < 20; i++) {
+            game.roll(1);
+        }
+        assertEquals(20, game.getScore());
+    }
 }
