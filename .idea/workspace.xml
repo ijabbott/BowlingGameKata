@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="803fe2b3-08c1-4cf2-a613-9cf8c308f6db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="803fe2b3-08c1-4cf2-a613-9cf8c308f6db" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="390">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -53,7 +50,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="53" />
     <option name="width" value="1680" />
     <option name="height" value="947" />
   </component>
@@ -127,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545324359978" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545327371026" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -194,47 +191,47 @@
       <updated>1545317824886</updated>
       <workItem from="1545317826170" duration="779000" />
       <workItem from="1545318739768" duration="65000" />
-      <workItem from="1545318925888" duration="4571000" />
+      <workItem from="1545318925888" duration="4944000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 03s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 10s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 27s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 27m 11s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 27m 54s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 33m 23s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 33m 57s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 36m 07s.xml">
-      <configuration name="BowlingGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BowlingGameTest - 2018.12.20 at 10h 36m 30s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BowlingGameTest - 2018.12.20 at 10h 42m 43s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 43m 10s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 43m 20s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 43m 58s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 44m 02s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 44m 43s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 45m 07s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 45m 14s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 46m 01s.xml">
+      <configuration name="BowlingGameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5415000" />
+    <option name="totallyTimeSpent" value="5788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <frame x="0" y="53" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
@@ -246,7 +243,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="390">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
         </state>
       </provider>
     </entry>
