@@ -19,8 +19,9 @@ public class BowlingGame {
         for(int i = 0; i < frames.length; i += 2) {
             score += frames[i];
             score += frames[i + 1];
-            if(frames[i] + frames[i + 1] == 10)
-            {
+            if(frames[i] == 10) {
+                score += (frames[i + 1] + frames[i + 2]);
+            } else if(frames[i] + frames[i + 1] == 10) {
                 score += frames[i + 2];
             }
         }

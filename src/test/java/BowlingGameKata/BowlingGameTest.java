@@ -39,4 +39,17 @@ public class BowlingGameTest {
         }
         assertEquals(20, game.getScore());
     }
+
+    @Test
+    public void BowlingGameOneStrikeAndThenRollTwoAndThreeEqualsTwenty() {
+        BowlingGame game = new BowlingGame();
+
+        game.roll(10);
+        game.roll(2);
+        game.roll(3);
+        for(int i = 0; i < 17; i++) {
+            game.roll(0);
+        }
+        assertEquals(20, game.getScore());
+    }
 }
