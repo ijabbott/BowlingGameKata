@@ -52,4 +52,14 @@ public class BowlingGameTest {
         }
         assertEquals(20, game.getScore());
     }
+
+    @Test
+    public void BowlingGameAllStrikesEqualsThreeHundred() {
+        BowlingGame game = new BowlingGame();
+
+        for(int i = 0; i < 12; i++) {
+            game.roll(10);
+        }
+        assertEquals(300, game.getScore());
+    }
 }

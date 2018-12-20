@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803fe2b3-08c1-4cf2-a613-9cf8c308f6db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java" afterDir="false" />
     </list>
@@ -22,20 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+            <state relative-caret-position="-149">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -48,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" />
         <option value="$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java" />
       </list>
     </option>
   </component>
@@ -128,10 +127,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545321285260" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545324359978" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,50 +194,50 @@
       <updated>1545317824886</updated>
       <workItem from="1545317826170" duration="779000" />
       <workItem from="1545318739768" duration="65000" />
-      <workItem from="1545318925888" duration="1888000" />
+      <workItem from="1545318925888" duration="4571000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 47m 20s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 03s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 47m 57s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 10s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 48m 15s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 26m 27s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 48m 33s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 27m 11s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 52m 51s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 27m 54s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 53m 22s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 33m 23s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 53m 48s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 33m 57s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 53m 57s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 36m 07s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 54m 04s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 36m 30s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BowlingGameTest - 2018.12.20 at 09h 54m 08s.xml">
+    <history-entry file="BowlingGameTest - 2018.12.20 at 10h 42m 43s.xml">
       <configuration name="BowlingGameTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2732000" />
+    <option name="totallyTimeSpent" value="5415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -244,7 +246,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -253,7 +255,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32982457" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -272,26 +274,98 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="-149">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BowlingGameKata/BowlingGameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BowlingGameKata/BowlingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|BowlingGameKata</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.google.code.findbugs:jsr305:3.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
