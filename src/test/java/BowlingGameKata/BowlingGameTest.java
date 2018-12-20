@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class BowlingGameTest {
     @Test
-    public void BowlingGameAllMisses() {
+    public void BowlingGameAllMissesEqualsZero() {
         BowlingGame game = new BowlingGame();
 
         for(int i = 0; i < 20; i++) {
@@ -18,11 +18,24 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void BowlingGameAllOnes() {
+    public void BowlingGameAllOnesEqualsTwenty() {
         BowlingGame game = new BowlingGame();
 
         for(int i = 0; i < 20; i++) {
             game.roll(1);
+        }
+        assertEquals(20, game.getScore());
+    }
+
+    @Test
+    public void BowlingGameOneSpareAndThenRollFiveEqualsTwenty() {
+        BowlingGame game = new BowlingGame();
+
+        game.roll(5);
+        game.roll(5);
+        game.roll(5);
+        for(int i = 0; i < 17; i++) {
+            game.roll(0);
         }
         assertEquals(20, game.getScore());
     }

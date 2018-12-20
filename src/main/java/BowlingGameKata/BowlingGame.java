@@ -6,12 +6,24 @@ package BowlingGameKata;
 public class BowlingGame {
 
     private int score = 0;
+    private int frameIndex = 0;
+    private int[] frames = new int[20];
+
 
     public void roll(int i) {
-        score += i;
+        frames[frameIndex] = i;
+        frameIndex++;
     }
 
     public int getScore() {
+        for(int i = 0; i < frames.length; i += 2) {
+            score += frames[i];
+            score += frames[i + 1];
+            if(frames[i] + frames[i + 1] == 10)
+            {
+                score += frames[i + 2];
+            }
+        }
         return score;
     }
 }
